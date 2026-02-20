@@ -10,5 +10,4 @@ voltados para lógica de programação e preparação para a Piscine da 42.
 - Laços de repetição
 
 ## Objetivo
-Praticar fundamentos da linguagem C.# Estudos-c-b-sico
-Estudos iniciais de programação em C
+Praticar fundamentos da linguagem C.
