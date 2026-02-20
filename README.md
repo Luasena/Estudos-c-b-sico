@@ -1,4 +1,4 @@
-# Estudos em C — Básico
+# Estudos em C — Basico
 
 Repositório com exercícios iniciais em linguagem C,
 voltados para lógica de programação e preparação para a Piscine da 42.
